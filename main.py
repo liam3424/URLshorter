@@ -44,7 +44,7 @@ def get_value():
 Text_Area=StringVar()
 
 # create a label
-label=Label(root,text="Enter Your Name")
+label=Label(root,text="Enter a URL: ")
 
 # placing the label at the right position
 label.place(x=190,y=80)
